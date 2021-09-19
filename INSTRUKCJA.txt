@@ -1,0 +1,3 @@
+Strzałki - poruszanie się
+Spacja - strzelanie
+LShift - spowolnienie czasu
